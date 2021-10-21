@@ -1,0 +1,7 @@
+D:\Code\EFPractice\EFPractice\bin\Debug\EFPractice.exe.config
+D:\Code\EFPractice\EFPractice\bin\Debug\EFPractice.exe
+D:\Code\EFPractice\EFPractice\bin\Debug\EFPractice.pdb
+D:\Code\EFPractice\EFPractice\obj\Debug\EFPractice.csproj.AssemblyReference.cache
+D:\Code\EFPractice\EFPractice\obj\Debug\EFPractice.csproj.CoreCompileInputs.cache
+D:\Code\EFPractice\EFPractice\obj\Debug\EFPractice.exe
+D:\Code\EFPractice\EFPractice\obj\Debug\EFPractice.pdb

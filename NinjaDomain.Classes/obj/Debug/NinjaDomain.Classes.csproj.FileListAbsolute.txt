@@ -1,0 +1,6 @@
+D:\Code\EFPractice\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csproj.AssemblyReference.cache
+D:\Code\EFPractice\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csproj.CoreCompileInputs.cache
+D:\Code\EFPractice\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll
+D:\Code\EFPractice\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.pdb
+D:\Code\EFPractice\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
+D:\Code\EFPractice\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb
