@@ -5,3 +5,8 @@ D:\Code\EFPractice\EFPractice\obj\Debug\EFPractice.csproj.AssemblyReference.cach
 D:\Code\EFPractice\EFPractice\obj\Debug\EFPractice.csproj.CoreCompileInputs.cache
 D:\Code\EFPractice\EFPractice\obj\Debug\EFPractice.exe
 D:\Code\EFPractice\EFPractice\obj\Debug\EFPractice.pdb
+D:\Code\EFPractice\EFPractice\bin\Debug\EntityFramework.dll
+D:\Code\EFPractice\EFPractice\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\EFPractice\EFPractice\bin\Debug\EntityFramework.xml
+D:\Code\EFPractice\EFPractice\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\EFPractice\EFPractice\obj\Debug\EFPractice.csproj.CopyComplete

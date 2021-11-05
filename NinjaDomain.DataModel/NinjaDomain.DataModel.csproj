@@ -51,7 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="NinjaContext.cs" />
     <Compile Include="Migrations\202110201932542_Initial.cs" />
     <Compile Include="Migrations\202110201932542_Initial.designer.cs">
       <DependentUpon>202110201932542_Initial.cs</DependentUpon>
@@ -64,7 +64,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

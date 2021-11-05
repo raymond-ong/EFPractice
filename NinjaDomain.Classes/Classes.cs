@@ -6,10 +6,16 @@ namespace NinjaDomain.Classes
 {
     public class Ninja
     {
+
+        public Ninja()
+        {
+            EquipmentOwned = new List<NinjaEquipment>();
+        }
         public int Id { get; set; }
         public string Name { get; set; }
         public bool ServedInOniwaban { get; set; }
         public Clan Clan { get; set; }
+        //public virtual Clan Clan { get; set; }
         public int ClanId { get; set; } // Notice this is FK for Clan. Recommended to add this "extra" FK ID to help EF identify this is a required field
         public List<NinjaEquipment> EquipmentOwned { get; set; } 
         public DateTime DateOfBirth { get; set; }
@@ -17,6 +23,10 @@ namespace NinjaDomain.Classes
 
     public class Clan
     {
+        public Clan()
+        {
+            Ninjas = new List<Ninja>();
+        }
         public int Id { get; set; }
         public string ClanName { get; set; }
         public List<Ninja> Ninjas{ get; set; }
